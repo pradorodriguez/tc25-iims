@@ -17,7 +17,7 @@ Demonstrate how to create an automated and Intelligent Inventory Manager solutio
 
 ## Getting Started
 
-Repository structure:
+Repository folder structure:
 
 * **[images-aisearch](./images-aisearch/):** Pictures of nutrional supplements previously loaded into Azure AI Search. Each picture represents a document inside the Inventory Manager Azure AI Search Database.
 
@@ -27,7 +27,7 @@ Repository structure:
 
 ## Environment Setup Instructions
 
-We have created a **[Course Setup](./00-course-setup/README.md)** section to help you with setting up your development environment.
+We have created a **[Course Setup](./00-course-setup/README.md)** section to help you with setting up your development environment to execute the code and the labs.
 
 ## Reference
 
