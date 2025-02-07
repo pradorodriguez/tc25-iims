@@ -4,9 +4,8 @@
 
 To properly execute the code and demos of this workshop, several Azure Keys and Values must be created as environment variables (CodeSpaces Secrets).
 
-> [!NOTE]
->
-> The Keys and Values will be provided by the speaker at the beginning of the session.
+> [!IMPORTANT]
+> **The Keys and Values will be provided by the speaker at the beginning of the session.**
 
 * In your fork of the main repo, go to the **Settings** button in the top menu bar.
 
