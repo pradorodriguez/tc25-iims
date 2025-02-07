@@ -14,22 +14,18 @@ To start taking this course, you will need to complete the following steps.
 
 #### 2.1. Create a Github Codespaces environment (RECOMMENDED OPTION)
 
-To avoid any dependency issues when running the code, we recommend running this course in a [GitHub Codespaces](https://github.com/features/codespaces).
+We recommend running this course in a [GitHub Codespaces](https://github.com/features/codespaces) environment. Github Codespaces will automatically open the Visual Studio Code online version, with the cloned repository and ready to execute the code from this workshop.
 
-This can be created by selecting the **Code** option on your forked version of this repo, selecting the **Codespaces** option and selecting the **Create codespace on main** option.
+If you selected this option (CodeSpaces), you can continue the setup instructions **[here](./SETUP_CS.md)**.
 
-![Dialog showing buttons to create a codespace](./images/who-will-pay.webp)
 
-Github Codespaces will automatically open the Visual Studio Code online version, with the cloned repository. The environment will be ready to execute the code from this bootcamp.
-
-If you selected this option (CodeSpaces), you can continue with the Azure OpenAI setup instructions in [Section 3](#3-finalize-the-configuration-settings-for-the-visual-studio-code-environment).
 
 > [!CAUTION]
 > **Storing Your API Keys**
 >
-> Keeping your API keys safe and secure is important when building any type of application. We recommend not to store any API keys directly in your code. Committing those details to a public repository could result in security issues and even unwanted costs if used by a bad actor.
-
-One of the best ways to keep your API keys secure when using GitHub Codespaces is by using Codespace Secrets. Instructions are provided below for those that choose to run their code locally on their computer, but if this is your chosen method, it is critical that you obfuscate your secrets!  Never use and commit an .env file with hard coded values in it to your fork, as by default, the fork is public.  
+> Keeping your API keys safe and secure is important when building any type of application. We recommend not to store any API keys directly in your code. Committing those details to a public repository could result in security issues.
+>
+> One of the best ways to keep your API keys secure when using GitHub Codespaces is by using Codespace Secrets. Instructions are provided below for those that choose to run their code locally on their computer, but if this is your chosen method, it is critical that you obfuscate your secrets!  Never use and commit an .env file with hard coded values in it to your fork, as by default, the fork is public.  
 
 #### 2.2. How to Run locally on your computer
 
@@ -68,8 +64,7 @@ An alternative to setting everything up on your computer or Codespace is to use 
 
 ### 3. Finalize the configuration settings for the Visual Studio Code environment
 
-> [!IMPORTANT]  
-> To properly run the code from this bootcamp follow these **[instructions](./SETUP.md)** before executing the labs.
+* CodeSpaces Environment **[instructions](./SETUP_CS.md)**.
 
 ## Disclaimer
 
