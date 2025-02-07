@@ -8,7 +8,7 @@ To start taking this course, you will need to complete the following steps.
 
 ### Fork this Repo
 
-[Fork this entire repo](https://github.com/pradorodriguez/tc25ai/fork) to your own GitHub account to be able to change any code and complete the challenges.
+[Fork this entire repo](https://github.com/pradorodriguez/tc25-iims/fork) to your own GitHub account to be able to change any code and complete the challenges.
 
 ### Configure your working environment (Select one option)
 
