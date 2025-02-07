@@ -48,10 +48,9 @@ The next step is to configure your **local environment variables** as follows:
 
 ### Populate `.env` file
 
-Update the environment variables from the `.env` file using the provided values by the speakers.Example:
+Update the environment variables from the `.env` file using the provided values by the speakers. Example:
 
 ```bash
-## Azure OpenAI
 AZURE_SEARCH_SERVICE="https://FAKE-ACCOUNT.search.windows.net"
 AZURE_SEARCH_KEY="<Azure AI Search Key>"
 AZURE_OPENAI_ACCOUNT="https://FAKE-ACCOUNT.openai.azure.com/"

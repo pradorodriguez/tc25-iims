@@ -35,7 +35,6 @@ To properly execute the code and demos of this workshop, several Azure Keys and 
 Select the **Code** option on your forked version of this repo, select the **Codespaces** tab and select the **Create codespace on main** option.
 
 > [!NOTE]
->
 > This step will automatically open a new browser explorer tab with an online version of Visual Studio Code. This will be your CodeSpaces environment.
 
 ![Dialog showing buttons to create a codespace](./images/cs1.jpg)
