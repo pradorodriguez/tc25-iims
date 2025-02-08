@@ -11,7 +11,7 @@ To properly execute the code and demos of this workshop, several Azure Keys and 
 
 ![Terminal](./images/cs5.jpg)
 
-* In the left navigation panel, go to: **Security**, **Secrets and Variables** and **Codespaces**.
+* In the left navigation panel, go to: **Security** -> **Secrets and Variables** -> **Codespaces**.
 * Create each secret below by clicking the **New repository secret**.  Take care to name them exactly as shown, as these will be the names of the variables inside of the codespaces environment.
 
 ![Terminal](./images/cs2.jpg)
@@ -32,7 +32,7 @@ To properly execute the code and demos of this workshop, several Azure Keys and 
 
 ## Create the CodeSpaces environment
 
-Select the **Code** option on your forked version of this repo, select the **Codespaces** tab and select the **Create codespace on main** option.
+On the main page of your forked version of this repo, go to: **Code** -> **Codespaces** tab -> **Create codespace on main**.
 
 > [!NOTE]
 > This step will automatically open a new browser explorer tab with an online version of Visual Studio Code. This will be your CodeSpaces environment.
@@ -49,7 +49,7 @@ Select the **Code** option on your forked version of this repo, select the **Cod
 
 * The demos are provided as Jupyter notebooks (`.ipynb` files).
 * **To run the Jupyter Notebook**, inside Github Codespaces Visual Studio Code, select the demo inside the **labs** folder, then click **Select Kernel** (at top right of the jupyter notebook) and select the default **Python 3.12.1** option shown.
-* You can now **Run** each action or **Run All** to execute the whole notebook.
+* You can now **Run** each action (piece of code) or **Run All** to execute the whole notebook.
 
 ![VSC Python Kernel](./images/kernel.jpg)
 
@@ -58,7 +58,7 @@ Select the **Code** option on your forked version of this repo, select the **Cod
 * An alternative to using CodeSpaces Visual Studio Code is CodeSpaces JupyterLab.
 * With the CodeSpaces environment created.
 * Close the newly opened browser tab with Online Visual Studio Code.
-* Select the **Code** option on your forked version of this repo, select the **Codespaces** tab, click the **elipsis (...)** buttom next to the CodeSpaces environment name, and click **Open in JupyterLab**.
+* On the main page of your forked version of this repo, go to: **Code** -> **Codespaces** tab -> click the **elipsis (...)** buttom (next to the CodeSpaces environment name) -> click **Open in JupyterLab**.
 
 ![JupyterLab](./images/cs6.jpg)
 
