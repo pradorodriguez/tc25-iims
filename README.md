@@ -29,6 +29,12 @@ Repository folder structure:
 
 We have created a **[Course Setup](./00-course-setup/README.md)** section to help you with setting up your development environment to execute the code and the labs.
 
-## Reference
+## Architecture
 
-Add data
+The current solution has been built using the following services
+
+![Architecture](./docs/architecture.jpg)
+
+The Azure AI Search Service has been enrich using the following skillsets
+
+![Skillsets](./docs/skillset.jpg)
