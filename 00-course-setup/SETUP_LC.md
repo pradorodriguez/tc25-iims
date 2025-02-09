@@ -8,18 +8,23 @@
 > [!IMPORTANT]
 > If you are using Github Codespaces you can skip **this section** and its substeps.
 
-To run the code locally on your computer, you need to have locally installed the following tools:
+To run the code locally on your computer, you need to have installed the following tools:
 
 * Git
 * Version 3.12 of [Python](https://www.python.org/downloads/)
   * Python packages: check the **[requirements file](../requirements.txt)**
 
-To then use the repository, you need to clone it:
+### Clone the repository
+
+* Open a bash terminal of your choice
+* Run the following code
 
 ```shell
 git clone https://github.com/pradorodriguez/tc25-iims.git
 cd tc25-iims
 ```
+
+* Open the downloaded repo using Visual Studio Code.
 
 ### Using a local Visual Studio Code with the Python support extension
 
@@ -35,11 +40,12 @@ We recommend using the [Visual Studio Code (VS Code)](https://code.visualstudio.
 The next step is to configure your **local environment variables** as follows:
 
 * Inside the online Visual Studio Code **Explorer** section (to the left), look in the **labs** folder for a `.env-example` file.
-* Copy `.env-example` file to `.env`. Open the Codespaces Visual Studio Code **Terminal** cli and execute the following command:
+* Copy `.env-example` file to `.env`: Open the Codespaces Visual Studio Code **Terminal** cli and execute the following command:
 
-   ```bash
-   cp .env-example .env
-   ```
+```bash
+cd labs
+cp .env-example .env
+```
 
 > [!NOTE]  
 > _.env_ file is _gitignore-d_, keeping secrets safe.

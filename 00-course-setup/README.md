@@ -20,7 +20,7 @@ If you select this option (CodeSpaces), you can continue the setup instructions 
 
 #### OPTION 2 - Use you local laptop environment
 
-If you select this option (CodeSpaces), you can continue the setup instructions **[here](./SETUP_LC.md)**.
+If you select this option (use your local PC), you can continue the setup instructions **[here](./SETUP_LC.md)**.
 
 ### 3. Finalize the configuration settings for the environment
 
