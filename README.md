@@ -31,10 +31,10 @@ We have created a **[Course Setup](./00-course-setup/README.md)** section to hel
 
 ## Architecture
 
-The current solution has been built using the following services
+The current solution has been built using the following services.
 
 ![Architecture](./docs/architecture.jpg)
 
-The Azure AI Search Service has been enrich using the following skillsets
+The Azure AI Search Service has been enrich using the following skillsets to extract information from multiple images.
 
 ![Skillsets](./docs/skillset.jpg)
