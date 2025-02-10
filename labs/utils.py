@@ -1,6 +1,14 @@
 #Libraries
 from mimetypes import guess_type
 import base64
+from IPython.display import display, Image
+
+# Function to display an image inside Juptyer Notebook
+def display_image(image_path, width=None, height=None):
+    # Load and display the image
+    image = Image(filename=image_path, width=width, height=height)
+    display(image)
+
 
 # Beautify/format print response
 def word_wrap(string, n_chars=100):
