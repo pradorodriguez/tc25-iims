@@ -10,6 +10,6 @@ ipython==8.31.0
 mimetype==0.1.5
 msrest==0.7.1
 openai==1.58.1
-pillow==11.1.0
+pillow==12.1.1
 pybase64==1.4.0
 python-dotenv==1.0.1
